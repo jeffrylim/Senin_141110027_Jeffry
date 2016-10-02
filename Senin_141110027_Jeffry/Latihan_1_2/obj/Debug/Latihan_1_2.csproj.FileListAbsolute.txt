@@ -1,0 +1,8 @@
+D:\Mikroskil\Framework .NET Lanjutan\Senin_141110027_Jeffry\Latihan_1_2\bin\Debug\Latihan_1_2.exe.config
+D:\Mikroskil\Framework .NET Lanjutan\Senin_141110027_Jeffry\Latihan_1_2\bin\Debug\Latihan_1_2.exe
+D:\Mikroskil\Framework .NET Lanjutan\Senin_141110027_Jeffry\Latihan_1_2\bin\Debug\Latihan_1_2.pdb
+D:\Mikroskil\Framework .NET Lanjutan\Senin_141110027_Jeffry\Latihan_1_2\obj\Debug\Latihan_1_2.Form1.resources
+D:\Mikroskil\Framework .NET Lanjutan\Senin_141110027_Jeffry\Latihan_1_2\obj\Debug\Latihan_1_2.Properties.Resources.resources
+D:\Mikroskil\Framework .NET Lanjutan\Senin_141110027_Jeffry\Latihan_1_2\obj\Debug\Latihan_1_2.csproj.GenerateResource.Cache
+D:\Mikroskil\Framework .NET Lanjutan\Senin_141110027_Jeffry\Latihan_1_2\obj\Debug\Latihan_1_2.exe
+D:\Mikroskil\Framework .NET Lanjutan\Senin_141110027_Jeffry\Latihan_1_2\obj\Debug\Latihan_1_2.pdb
