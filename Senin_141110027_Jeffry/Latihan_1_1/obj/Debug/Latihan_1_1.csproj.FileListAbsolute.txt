@@ -7,3 +7,12 @@ D:\Mikroskil\Framework .NET Lanjutan\Senin_141110027_Jeffry\Latihan_1_1\obj\Debu
 D:\Mikroskil\Framework .NET Lanjutan\Senin_141110027_Jeffry\Latihan_1_1\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
 D:\Mikroskil\Framework .NET Lanjutan\Senin_141110027_Jeffry\Latihan_1_1\obj\Debug\Latihan_1_1.exe
 D:\Mikroskil\Framework .NET Lanjutan\Senin_141110027_Jeffry\Latihan_1_1\obj\Debug\Latihan_1_1.pdb
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_1_1\obj\Debug\Latihan_1_1.exe
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_1_1\obj\Debug\Latihan_1_1.pdb
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_1_1\bin\Debug\Latihan_1_1.exe
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_1_1\bin\Debug\Latihan_1_1.pdb
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_1_1\obj\Debug\Latihan_1_1.csprojResolveAssemblyReference.cache
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_1_1\obj\Debug\Latihan_1_1.Form1.resources
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_1_1\obj\Debug\Latihan_1_1.Properties.Resources.resources
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_1_1\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
