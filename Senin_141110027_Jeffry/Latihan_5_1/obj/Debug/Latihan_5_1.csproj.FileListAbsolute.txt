@@ -1,0 +1,9 @@
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_5_1\bin\Debug\Latihan_5_1.exe.config
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_5_1\obj\Debug\Latihan_5_1.Form1.resources
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_5_1\obj\Debug\Latihan_5_1.Properties.Resources.resources
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_5_1\obj\Debug\Latihan_5_1.csproj.GenerateResource.Cache
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_5_1\bin\Debug\Latihan_5_1.exe
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_5_1\bin\Debug\Latihan_5_1.pdb
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_5_1\obj\Debug\Latihan_5_1.Form2.resources
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_5_1\obj\Debug\Latihan_5_1.exe
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
