@@ -1,0 +1,9 @@
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\volleyball_problem\bin\Debug\volleyball_problem.exe.config
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\volleyball_problem\bin\Debug\volleyball_problem.exe
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\volleyball_problem\bin\Debug\volleyball_problem.pdb
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\volleyball_problem\obj\Debug\volleyball_problem.csprojResolveAssemblyReference.cache
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\volleyball_problem\obj\Debug\volleyball_problem.Form1.resources
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\volleyball_problem\obj\Debug\volleyball_problem.Properties.Resources.resources
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\volleyball_problem\obj\Debug\volleyball_problem.exe
+D:\Dokumen\jeffry\Mikroskil\Semester 5\Framework Lanjutan\Latihan\Senin_141110027_Jeffry\Senin_141110027_Jeffry\volleyball_problem\obj\Debug\volleyball_problem.pdb
